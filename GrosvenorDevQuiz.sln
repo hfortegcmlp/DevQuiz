@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrosvenorDevQuiz", "GrosvenorDevQuiz\GrosvenorDevQuiz.csproj", "{C37EB757-11CC-4693-8FC4-9EBB8046697D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrosVenorDevQuizTests", "GrosVenorDevQuizTests\GrosVenorDevQuizTests.csproj", "{674A594E-DB88-4079-8A54-E7BE6D500E23}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrosvenorDevQuizTests", "GrosVenorDevQuizTests\GrosvenorDevQuizTests.csproj", "{674A594E-DB88-4079-8A54-E7BE6D500E23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
