@@ -3,7 +3,7 @@ using System.Linq;
 using GrosvenorDevQuiz.BusinessObjects;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace GrosVenorDevQuizTests
+namespace GrosvenorDevQuizTests
 {
     [TestClass]
     public class IntegrationTests
